@@ -22,15 +22,6 @@ const Books = ({
           next={fetchMoreBooks}
           loader={<h4>Loading...</h4>}
           hasMore={books.length <= totalItems && books.length !== 0}
-          endMessage={
-            <p>
-              {books.length === 0 ? (
-                <strong>No results found</strong>
-              ) : (
-                <strong>Yay! You have seen it all</strong>
-              )}
-            </p>
-          }
         >
           <div className="grid pt-4 gap-4 sm:grid-cols-2 md:px-8 lg:px-0 lg:grid-cols-3">
             {books.map((book) => (
