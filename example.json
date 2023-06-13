@@ -1,0 +1,100 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2060,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "C7RvJQhqOeYC",
+      "etag": "9vngibN0ddM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C7RvJQhqOeYC",
+      "volumeInfo": {
+        "title": "Love",
+        "authors": ["Toni Morrison"],
+        "publisher": "Random House",
+        "publishedDate": "2008-12-26",
+        "description": "A haunting and affecting meditation on love from the Nobel-prize winning author of Beloved. May, Christine, Heed, Junior, Vida – even L – all are women obsessed with Bill Cosey. He shapes their yearnings for a father, husband, lover, guardian, and friend. This audacious vision from a master storyteller on the nature of love – its appetite, its sublime possession, and its consuming dread – is rich in characters and dramatic events, and in its profound sensitivity to just how alive the past can be. Sensual, elegiac and unforgettable, Love ultimately comes full circle to that indelible, overwhelming first love that marks us forever. Winner of the PEN/Saul Bellow award for achievement in American fiction ‘Love is her best work...a slender but mesmerising tale’ Evening Standard",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781407020358"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1407020358"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.19.12.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C7RvJQhqOeYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C7RvJQhqOeYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=C7RvJQhqOeYC&pg=PP1&dq=Loveis+or+it+ain%27t.+Thin+love+ain%27t+love+at+all&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C7RvJQhqOeYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C7RvJQhqOeYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 441.61,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 309.13,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=C7RvJQhqOeYC&rdid=book-C7RvJQhqOeYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 441610000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 309130000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Love-sample-epub.acsm?id=C7RvJQhqOeYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C7RvJQhqOeYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sensual, elegiac and unforgettable, Love ultimately comes full circle to that indelible, overwhelming first love that marks us forever."
+      }
+    }
+  ]
+}
